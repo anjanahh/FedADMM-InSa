@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://doi.org/10.1016/j.neunet.2024.106772">
-    <img src="https://img.shields.io/badge/DOI-10.1016%2Fj.neunet-blue" alt="Read the paper"/></a>
+    <img src="https://img.shields.io/badge/DOI-Neural Networks-blue" alt="Read the paper"/></a>
   <a href="https://arxiv.org/abs/2402.13989">
     <img src="https://img.shields.io/badge/arXiv-2402.13989-b31b1b?logo=arxiv" alt="Read on arXiv"/></a>
 </p>
