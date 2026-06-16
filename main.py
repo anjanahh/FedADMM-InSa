@@ -5,7 +5,8 @@ from rich.progress import Progress
 from utils.dataset import init_dataset
 from utils.args import args_parser
 from utils.utils import load_config, set_seed
-
+import matplotlib
+matplotlib.use('Agg')  # use non-interactive backend, no tkinter needed
 
 def main(cfg):
     # Setup the random seed.
