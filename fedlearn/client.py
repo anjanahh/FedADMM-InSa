@@ -76,7 +76,7 @@ class Clients(object):
         if cfg.alg in ["admm_insa", "admm_in", "admm"]:
             beta_i_k = self.beta[self.i][self.k]
             self._update_lambda(beta_i_k)  # update dual variables lambda
-            if self.cfg.alg == ["admm_insa","admm"]:  # udpate penlaty parameter beta
+            if self.cfg.alg == "admm_insa":  # udpate penlaty parameter beta
                 self._adp_beta(beta_i_k)
             # record params to send back to the server
             self.send_back["beta"] = self.beta[:, self.k]  # beta_i^k use new

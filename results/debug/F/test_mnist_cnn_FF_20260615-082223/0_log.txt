@@ -1,0 +1,707 @@
+ Loss: 2.301
+ Accu: 0.112
+
+-----Start training-----
+
+
+Round: 1
+ Round time: 1.2 min
+ Loss: 2.295
+ Accu: 0.120
+ Total time: 1.6 min
+
+
+Round: 2
+ Round time: 1.0 min
+ Loss: 2.290
+ Accu: 0.157
+ Total time: 3.0 min
+
+
+Round: 3
+ Round time: 1.1 min
+ Loss: 2.285
+ Accu: 0.131
+ Total time: 4.5 min
+
+
+Round: 4
+ Round time: 1.2 min
+ Loss: 2.279
+ Accu: 0.113
+ Total time: 6.1 min
+
+
+Round: 5
+ Round time: 1.1 min
+ Loss: 2.279
+ Accu: 0.168
+ Total time: 7.6 min
+
+
+Round: 6
+ Round time: 1.1 min
+ Loss: 2.271
+ Accu: 0.202
+ Total time: 9.2 min
+
+
+Round: 7
+ Round time: 1.1 min
+ Loss: 2.268
+ Accu: 0.200
+ Total time: 10.7 min
+
+
+Round: 8
+ Round time: 1.2 min
+ Loss: 2.256
+ Accu: 0.190
+ Total time: 12.3 min
+
+
+Round: 9
+ Round time: 1.0 min
+ Loss: 2.248
+ Accu: 0.237
+ Total time: 13.8 min
+
+
+Round: 10
+ Round time: 1.1 min
+ Loss: 2.238
+ Accu: 0.240
+ Total time: 15.3 min
+
+
+Round: 11
+ Round time: 1.1 min
+ Loss: 2.226
+ Accu: 0.237
+ Total time: 16.9 min
+
+
+Round: 12
+ Round time: 1.0 min
+ Loss: 2.214
+ Accu: 0.248
+ Total time: 18.3 min
+
+
+Round: 13
+ Round time: 1.2 min
+ Loss: 2.203
+ Accu: 0.188
+ Total time: 19.9 min
+
+
+Round: 14
+ Round time: 1.1 min
+ Loss: 2.204
+ Accu: 0.217
+ Total time: 21.5 min
+
+
+Round: 15
+ Round time: 1.0 min
+ Loss: 2.202
+ Accu: 0.203
+ Total time: 22.9 min
+
+
+Round: 16
+ Round time: 1.2 min
+ Loss: 2.191
+ Accu: 0.275
+ Total time: 24.6 min
+
+
+Round: 17
+ Round time: 1.3 min
+ Loss: 2.183
+ Accu: 0.324
+ Total time: 26.5 min
+
+
+Round: 18
+ Round time: 1.2 min
+ Loss: 2.157
+ Accu: 0.338
+ Total time: 28.0 min
+
+
+Round: 19
+ Round time: 0.9 min
+ Loss: 2.154
+ Accu: 0.333
+ Total time: 29.4 min
+
+
+Round: 20
+ Round time: 1.0 min
+ Loss: 2.139
+ Accu: 0.328
+ Total time: 30.8 min
+
+
+Round: 21
+ Round time: 0.8 min
+ Loss: 2.139
+ Accu: 0.329
+ Total time: 32.0 min
+
+
+Round: 22
+ Round time: 1.7 min
+ Loss: 2.121
+ Accu: 0.273
+ Total time: 34.5 min
+
+
+Round: 23
+ Round time: 1.8 min
+ Loss: 2.108
+ Accu: 0.270
+ Total time: 36.6 min
+
+
+Round: 24
+ Round time: 0.7 min
+ Loss: 2.096
+ Accu: 0.227
+ Total time: 37.6 min
+
+
+Round: 25
+ Round time: 0.7 min
+ Loss: 2.079
+ Accu: 0.245
+ Total time: 38.7 min
+
+
+Round: 26
+ Round time: 0.7 min
+ Loss: 2.076
+ Accu: 0.239
+ Total time: 39.8 min
+
+
+Round: 27
+ Round time: 0.8 min
+ Loss: 2.044
+ Accu: 0.321
+ Total time: 41.0 min
+
+
+Round: 28
+ Round time: 0.8 min
+ Loss: 2.014
+ Accu: 0.317
+ Total time: 42.2 min
+
+
+Round: 29
+ Round time: 0.9 min
+ Loss: 1.977
+ Accu: 0.335
+ Total time: 43.4 min
+
+
+Round: 30
+ Round time: 0.7 min
+ Loss: 1.958
+ Accu: 0.434
+ Total time: 44.5 min
+
+
+Round: 31
+ Round time: 0.9 min
+ Loss: 1.932
+ Accu: 0.412
+ Total time: 45.8 min
+
+
+Round: 32
+ Round time: 0.7 min
+ Loss: 1.904
+ Accu: 0.486
+ Total time: 46.9 min
+
+
+Round: 33
+ Round time: 0.8 min
+ Loss: 1.855
+ Accu: 0.506
+ Total time: 48.0 min
+
+
+Round: 34
+ Round time: 0.9 min
+ Loss: 1.810
+ Accu: 0.557
+ Total time: 49.3 min
+
+
+Round: 35
+ Round time: 0.7 min
+ Loss: 1.771
+ Accu: 0.541
+ Total time: 50.3 min
+
+
+Round: 36
+ Round time: 0.6 min
+ Loss: 1.732
+ Accu: 0.577
+ Total time: 51.3 min
+
+
+Round: 37
+ Round time: 0.7 min
+ Loss: 1.710
+ Accu: 0.593
+ Total time: 52.5 min
+
+
+Round: 38
+ Round time: 0.6 min
+ Loss: 1.671
+ Accu: 0.622
+ Total time: 53.4 min
+
+
+Round: 39
+ Round time: 0.7 min
+ Loss: 1.649
+ Accu: 0.585
+ Total time: 54.5 min
+
+
+Round: 40
+ Round time: 0.7 min
+ Loss: 1.623
+ Accu: 0.561
+ Total time: 55.6 min
+
+
+Round: 41
+ Round time: 0.7 min
+ Loss: 1.594
+ Accu: 0.554
+ Total time: 56.6 min
+
+
+Round: 42
+ Round time: 0.4 min
+ Loss: 1.570
+ Accu: 0.581
+ Total time: 57.4 min
+
+
+Round: 43
+ Round time: 0.7 min
+ Loss: 1.428
+ Accu: 0.608
+ Total time: 58.5 min
+
+
+Round: 44
+ Round time: 0.5 min
+ Loss: 1.361
+ Accu: 0.646
+ Total time: 59.4 min
+
+
+Round: 45
+ Round time: 0.7 min
+ Loss: 1.288
+ Accu: 0.649
+ Total time: 60.4 min
+
+
+Round: 46
+ Round time: 0.5 min
+ Loss: 1.208
+ Accu: 0.699
+ Total time: 61.3 min
+
+
+Round: 47
+ Round time: 0.7 min
+ Loss: 1.194
+ Accu: 0.690
+ Total time: 62.3 min
+
+
+Round: 48
+ Round time: 0.6 min
+ Loss: 1.142
+ Accu: 0.716
+ Total time: 63.3 min
+
+
+Round: 49
+ Round time: 0.7 min
+ Loss: 1.099
+ Accu: 0.700
+ Total time: 64.4 min
+
+
+Round: 50
+ Round time: 0.6 min
+ Loss: 1.070
+ Accu: 0.702
+ Total time: 65.3 min
+
+
+Round: 51
+ Round time: 0.5 min
+ Loss: 1.028
+ Accu: 0.745
+ Total time: 66.2 min
+
+
+Round: 52
+ Round time: 0.9 min
+ Loss: 1.023
+ Accu: 0.748
+ Total time: 67.5 min
+
+
+Round: 53
+ Round time: 0.4 min
+ Loss: 0.978
+ Accu: 0.773
+ Total time: 68.3 min
+
+
+Round: 54
+ Round time: 0.7 min
+ Loss: 0.947
+ Accu: 0.777
+ Total time: 69.5 min
+
+
+Round: 55
+ Round time: 0.6 min
+ Loss: 0.916
+ Accu: 0.803
+ Total time: 70.4 min
+
+
+Round: 56
+ Round time: 0.5 min
+ Loss: 0.890
+ Accu: 0.799
+ Total time: 71.3 min
+
+
+Round: 57
+ Round time: 0.6 min
+ Loss: 0.870
+ Accu: 0.799
+ Total time: 72.2 min
+
+
+Round: 58
+ Round time: 0.6 min
+ Loss: 0.825
+ Accu: 0.809
+ Total time: 73.2 min
+
+
+Round: 59
+ Round time: 0.5 min
+ Loss: 0.806
+ Accu: 0.799
+ Total time: 74.1 min
+
+
+Round: 60
+ Round time: 0.6 min
+ Loss: 0.789
+ Accu: 0.818
+ Total time: 75.0 min
+
+
+Round: 61
+ Round time: 0.7 min
+ Loss: 0.777
+ Accu: 0.821
+ Total time: 76.0 min
+
+
+Round: 62
+ Round time: 0.4 min
+ Loss: 0.762
+ Accu: 0.830
+ Total time: 76.8 min
+
+
+Round: 63
+ Round time: 0.5 min
+ Loss: 0.754
+ Accu: 0.821
+ Total time: 77.7 min
+
+
+Round: 64
+ Round time: 0.5 min
+ Loss: 0.739
+ Accu: 0.832
+ Total time: 78.7 min
+
+
+Round: 65
+ Round time: 0.6 min
+ Loss: 0.729
+ Accu: 0.840
+ Total time: 79.6 min
+
+
+Round: 66
+ Round time: 0.6 min
+ Loss: 0.725
+ Accu: 0.828
+ Total time: 80.7 min
+
+
+Round: 67
+ Round time: 0.6 min
+ Loss: 0.707
+ Accu: 0.842
+ Total time: 81.7 min
+
+
+Round: 68
+ Round time: 0.6 min
+ Loss: 0.685
+ Accu: 0.846
+ Total time: 82.6 min
+
+
+Round: 69
+ Round time: 0.5 min
+ Loss: 0.677
+ Accu: 0.842
+ Total time: 83.5 min
+
+
+Round: 70
+ Round time: 0.5 min
+ Loss: 0.659
+ Accu: 0.850
+ Total time: 84.5 min
+
+
+Round: 71
+ Round time: 0.7 min
+ Loss: 0.641
+ Accu: 0.849
+ Total time: 85.5 min
+
+
+Round: 72
+ Round time: 0.6 min
+ Loss: 0.633
+ Accu: 0.854
+ Total time: 86.5 min
+
+
+Round: 73
+ Round time: 0.4 min
+ Loss: 0.618
+ Accu: 0.851
+ Total time: 87.3 min
+
+
+Round: 74
+ Round time: 0.7 min
+ Loss: 0.605
+ Accu: 0.850
+ Total time: 88.4 min
+
+
+Round: 75
+ Round time: 0.8 min
+ Loss: 0.589
+ Accu: 0.858
+ Total time: 89.5 min
+
+
+Round: 76
+ Round time: 0.7 min
+ Loss: 0.580
+ Accu: 0.861
+ Total time: 90.7 min
+
+
+Round: 77
+ Round time: 0.6 min
+ Loss: 0.578
+ Accu: 0.858
+ Total time: 91.8 min
+
+
+Round: 78
+ Round time: 0.8 min
+ Loss: 0.578
+ Accu: 0.858
+ Total time: 93.1 min
+
+
+Round: 79
+ Round time: 0.4 min
+ Loss: 0.555
+ Accu: 0.857
+ Total time: 93.9 min
+
+
+Round: 80
+ Round time: 0.5 min
+ Loss: 0.548
+ Accu: 0.859
+ Total time: 96.6 min
+
+
+Round: 81
+ Round time: 0.5 min
+ Loss: 0.544
+ Accu: 0.862
+ Total time: 97.5 min
+
+
+Round: 82
+ Round time: 0.5 min
+ Loss: 0.532
+ Accu: 0.865
+ Total time: 98.3 min
+
+
+Round: 83
+ Round time: 0.6 min
+ Loss: 0.529
+ Accu: 0.867
+ Total time: 99.3 min
+
+
+Round: 84
+ Round time: 0.5 min
+ Loss: 0.521
+ Accu: 0.868
+ Total time: 100.3 min
+
+
+Round: 85
+ Round time: 0.6 min
+ Loss: 0.512
+ Accu: 0.870
+ Total time: 101.3 min
+
+
+Round: 86
+ Round time: 0.5 min
+ Loss: 0.504
+ Accu: 0.872
+ Total time: 102.2 min
+
+
+Round: 87
+ Round time: 0.6 min
+ Loss: 0.493
+ Accu: 0.873
+ Total time: 103.2 min
+
+
+Round: 88
+ Round time: 0.8 min
+ Loss: 0.483
+ Accu: 0.876
+ Total time: 104.4 min
+
+
+Round: 89
+ Round time: 0.7 min
+ Loss: 0.479
+ Accu: 0.878
+ Total time: 105.5 min
+
+
+Round: 90
+ Round time: 0.4 min
+ Loss: 0.469
+ Accu: 0.880
+ Total time: 106.3 min
+
+
+Round: 91
+ Round time: 0.5 min
+ Loss: 0.466
+ Accu: 0.879
+ Total time: 107.2 min
+
+
+Round: 92
+ Round time: 0.7 min
+ Loss: 0.464
+ Accu: 0.880
+ Total time: 108.2 min
+
+
+Round: 93
+ Round time: 0.9 min
+ Loss: 0.466
+ Accu: 0.879
+ Total time: 109.5 min
+
+
+Round: 94
+ Round time: 0.9 min
+ Loss: 0.459
+ Accu: 0.880
+ Total time: 110.7 min
+
+
+Round: 95
+ Round time: 0.6 min
+ Loss: 0.456
+ Accu: 0.882
+ Total time: 111.8 min
+
+
+Round: 96
+ Round time: 0.6 min
+ Loss: 0.452
+ Accu: 0.882
+ Total time: 112.7 min
+
+
+Round: 97
+ Round time: 0.7 min
+ Loss: 0.451
+ Accu: 0.884
+ Total time: 113.8 min
+
+
+Round: 98
+ Round time: 0.7 min
+ Loss: 0.446
+ Accu: 0.884
+ Total time: 114.9 min
+
+
+Round: 99
+ Round time: 0.7 min
+ Loss: 0.444
+ Accu: 0.885
+ Total time: 115.9 min
+
+
+Round: 100
+ Round time: 0.7 min
+ Loss: 0.447
+ Accu: 0.886
+ Total time: 117.0 min
+
+-----End training-----
+

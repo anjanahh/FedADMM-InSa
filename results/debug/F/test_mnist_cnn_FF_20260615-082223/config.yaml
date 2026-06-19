@@ -1,0 +1,32 @@
+E: 10
+K: 100
+activation: relu
+alg: admm_insa
+beta: 10
+bs: 50
+c_i: 0.01
+cfg: c:\Users\Anjana kp\OneDrive\Documents\GitHub\FedADMM-InSa\utils\config.yaml
+dataset: mnist
+debug: true
+decay: 0
+delta: 0.01
+device: cpu
+dir_res: c:\Users\Anjana kp\OneDrive\Documents\GitHub\FedADMM-InSa\results/debug\F\test_mnist_cnn_FF_20260615-082223
+frac: 0.1
+iid: 0
+inexact_z: true
+loss: cn
+lr: 0.01
+lr_decay: 0
+m: 100
+model: cnn
+momentum: 0
+mu: 5
+optimizer: sgd
+plot: 1
+save_freq: 1
+seed: 123
+subset: 0
+tag: FF
+tag0: F
+tau: 2
